@@ -1,5 +1,5 @@
 # Football-Predictions-with-Random-Forests
-Followed along and adapted a tutorial to scrape data using BeautifulSoup, which was used to scrape football match data off the site FBRef.
+Basic project to scrape data using BeautifulSoup, which was used to scrape English Premier League football match data off the site FBRef.
 
 #TO BE DONE
 - Scrape different statistics, from websites such as WhoScored or TransferMarkt.
